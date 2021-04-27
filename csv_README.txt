@@ -1,6 +1,6 @@
 Explainations of the survey per .csv files. Related to the name of the .csv files.
 
-PIAL2.csv = "Do you ever worry about how much informatoin is available about you on the internet"
+PIAL2.csv = "Do you ever worry about how much information is available about you on the internet"
 
 PIAL3a.csv = "How important to you is it that only you have access to knowledge of the websites you browse?"
 
