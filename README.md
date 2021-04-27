@@ -1,6 +1,5 @@
 # Anonymity Data Visualization
-Visualiztion of July 2013 Data survey of American interest in internet anonymity and privacy.   
-Final Project for UofSC CSCE 567 Data Visualization Course.  
+July 2013 data survey of different demographics of American individuals and their practice of Internet Privacy, Security, and Anonymity.  
 Visualization made in Tableau by Luis Baez.  
 
 # HTML Demo
